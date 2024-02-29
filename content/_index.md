@@ -64,7 +64,7 @@ sections:
       items:
         - title: Postdoctoral Research Fellow
           company: University of Pisa
-          company_url: 'www.unipi.it'
+          company_url: 'https://www.unipi.it'
           company_logo: 'unipilogo'
           location: Pisa, Italy
           date_start: '2024-02-05'
@@ -73,7 +73,7 @@ sections:
           
         - title: PhD Student in Data Science
           company: Scuola Normale Superiore
-          company_logo: 'Official_logo_SNS'
+          company_logo: 'snslogo'
           company_url: 'https://www.sns.it/it'
           company_logo: ''
           location: Pisa, Italy
