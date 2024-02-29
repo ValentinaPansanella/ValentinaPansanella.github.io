@@ -65,7 +65,7 @@ sections:
         - title: Postdoctoral Research Fellow
           company: University of Pisa
           company_url: 'www.unipi.it'
-          company_logo: 'images/unipilogo.svg'
+          company_logo: 'unipilogo'
           location: Pisa, Italy
           date_start: '2024-02-05'
           date_end: ''
