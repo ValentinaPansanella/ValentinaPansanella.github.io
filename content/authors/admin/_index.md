@@ -87,7 +87,7 @@ social:
     link: valentina.pansanella@unipi.it
   - icon: twitter
     icon_pack: fab
-    link: https://https://twitter.com/VPansanella
+    link: https://twitter.com/VPansanella
     label: Follow me on Twitter
     display:
       header: true
