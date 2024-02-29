@@ -73,6 +73,7 @@ sections:
           
         - title: PhD Student in Data Science
           company: Scuola Normale Superiore
+          company_logo: 'Official_logo_SNS'
           company_url: 'https://www.sns.it/it'
           company_logo: ''
           location: Pisa, Italy
