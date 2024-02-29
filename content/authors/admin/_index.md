@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Valentina Pansanella
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Valentina Pansanella
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Valentina
+last_name: Pansanella
 
 # Status emoji
 status:
@@ -17,34 +17,35 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Postdoctoral Research Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Pisa
+    url: https://www.unipi.it/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include a lot of stuff I still have to write
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Social Network Analysis
+  - Opinion Dynamics
+  - Mass Media 
+  - Politics
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Data Science
+      institution: Scuola Normale Superiore
+      year: 2024
+    - course: MSc in Data Science
+      institution: Università di Pisa
+      year: 2020
+    - course: BSc in Business Economics
+      institution: Università degli Studi di Perugia
+      year: 2017
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -58,7 +59,7 @@ skills:
         icon_pack: fab
       - name: Data Science
         description: ''
-        percent: 100
+        percent: 60
         icon: chart-line
         icon_pack: fas
       - name: SQL
@@ -70,20 +71,10 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
+      - name: Dogs
         description: ''
         percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
+        icon: dog
         icon_pack: fas
 
 # Social/Academic Networking
@@ -93,22 +84,22 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: valentina.pansanella@unipi.it
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://https://twitter.com/VPansanella
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=EPEv86oAAAAJ&hl=it&oi=ao
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/ValentinaPansanella/
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.https://www.linkedin.com/in/valentinapansanella/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -120,5 +111,7 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+Valentina Pansanella is currently a Postdoctoral Research Fellow at the Department of Computer Science, University of Pisa, with a Research Fellowship on "Opinion dynamics modeling for climate lobbying" (PRIN PNRR project ALMONDO). 
+She received her Ph.D. in Data Science with Honors from the Scuola Normale Superiore di Pisa with a Thesis on the study of opinion evolution in social media in Jan 2024. Her PhD thesis investigates biases and network effects in shaping opinion formation and diffusion in online social networks, emphasizing the interplay of algorithmic and cognitive biases with network dynamics and external influences like mass media. Valentina Pansanella developed models to simulate opinion dynamics in online environments, and validated them using real data from platforms like Reddit and Twitter, focusing on understanding such complex phenomena.  
+Prior to her PhD, Valentina Pansanella graduated in Data Science at University of Pisa with 110/110 cum laude with a thesis in social network analysis pertaining to the field of opinion dynamics.
+Valentina Pansanella has a bachelor's degree in Business Economics obtained with 110/110 cum laude from the University of Perugia with a thesis on CAPM and factorial models. 
